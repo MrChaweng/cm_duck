@@ -1,2 +1,2 @@
-# cm_duck
+# cm_MTK6582_duck
 myandroid
